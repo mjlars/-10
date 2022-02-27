@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "name": "team-profile-generator",
+  "description": "generate team profiles from command line for some reason",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  
+  "author": "",
+  "license": "ISC"
+}
